@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Arsh Dhillon
+logo: "/images/photo.png?raw=true"
+description: >
+  UoW'22 Elecrical and Computer Engineering, Minor in Mathematics 
   <br><br>
-  Second description 
+  Interested in IT, Software, Power Systems, Web and Game Dev, Electronics, Computers, Music and Pizza  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/arsh-dhillon/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
