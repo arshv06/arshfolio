@@ -3,11 +3,11 @@
 ---
 
 ### My Current Ongoing Projects
-[Wings of Peace](/sample_page)
+[Wings of Peace](https://github.com/arshv06/Wings-of-Peace)
 <img src="images/drone.jpg?raw=true"/>
 
 ---
-[Tarot Chess](/sample_page)
+[Tarot Chess](https://github.com/arshv06/Tarot-Chess)
 <img src="images/chess.jpg?raw=true"/>
 
 ---
