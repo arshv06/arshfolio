@@ -33,4 +33,4 @@
 
 ---
 [LOCAL-IP-TextMessaging](https://github.com/arshv06/LANTextMessaging/)
-<img src="images/socket.png?raw=true"/>
+<img src="images/socket.jpg?raw=true"/>
